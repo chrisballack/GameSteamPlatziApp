@@ -20,6 +20,25 @@
 		1755E3902B277F4000BE7E7B /* RegistView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1755E38F2B277F3F00BE7E7B /* RegistView.swift */; };
 		1755E3922B277F4B00BE7E7B /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1755E3912B277F4B00BE7E7B /* LoginView.swift */; };
 		1755E3942B2798F100BE7E7B /* PlaceHolderTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1755E3932B2798F100BE7E7B /* PlaceHolderTextField.swift */; };
+		17C07FB32B28B1E9008F55A9 /* CameraComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C07FB22B28B1E9008F55A9 /* CameraComponent.swift */; };
+		17C07FC92B28CCAA008F55A9 /* Lato-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FC42B28CC9F008F55A9 /* Lato-Black.ttf */; };
+		17C07FCA2B28CCB0008F55A9 /* Lato-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FC52B28CC9F008F55A9 /* Lato-BlackItalic.ttf */; };
+		17C07FCB2B28CCB0008F55A9 /* Lato-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FC72B28CCA0008F55A9 /* Lato-BoldItalic.ttf */; };
+		17C07FCC2B28CCB0008F55A9 /* Lato-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FC82B28CCA0008F55A9 /* Lato-Light.ttf */; };
+		17C07FCD2B28CCB0008F55A9 /* Lato-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FC62B28CCA0008F55A9 /* Lato-Italic.ttf */; };
+		17C07FCE2B28CCB0008F55A9 /* Lato-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FC12B28CC9F008F55A9 /* Lato-Thin.ttf */; };
+		17C07FCF2B28CCB0008F55A9 /* Lato-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FC02B28CC9F008F55A9 /* Lato-Regular.ttf */; };
+		17C07FD02B28CCB0008F55A9 /* Lato-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FC32B28CC9F008F55A9 /* Lato-ThinItalic.ttf */; };
+		17C07FD12B28CCB0008F55A9 /* Lato-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FC22B28CC9F008F55A9 /* Lato-Bold.ttf */; };
+		17C07FD22B28CCB0008F55A9 /* Lato-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FBF2B28CC9F008F55A9 /* Lato-LightItalic.ttf */; };
+		17C07FD32B28CCB8008F55A9 /* sf-ui-display-light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FBA2B28CC67008F55A9 /* sf-ui-display-light.otf */; };
+		17C07FD42B28CCB8008F55A9 /* sf-ui-display-heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FB72B28CC67008F55A9 /* sf-ui-display-heavy.otf */; };
+		17C07FD52B28CCB8008F55A9 /* sf-ui-display-semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FBB2B28CC67008F55A9 /* sf-ui-display-semibold.otf */; };
+		17C07FD62B28CCB8008F55A9 /* sf-ui-display-thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FBC2B28CC67008F55A9 /* sf-ui-display-thin.otf */; };
+		17C07FD72B28CCB8008F55A9 /* sf-ui-display-bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FB62B28CC67008F55A9 /* sf-ui-display-bold.otf */; };
+		17C07FD82B28CCB8008F55A9 /* sf-ui-display-ultralight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FB52B28CC67008F55A9 /* sf-ui-display-ultralight.otf */; };
+		17C07FD92B28CCB8008F55A9 /* sf-ui-display-black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FB92B28CC67008F55A9 /* sf-ui-display-black.otf */; };
+		17C07FDA2B28CCB8008F55A9 /* sf-ui-display-medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 17C07FB82B28CC67008F55A9 /* sf-ui-display-medium.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +75,26 @@
 		1755E38F2B277F3F00BE7E7B /* RegistView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistView.swift; sourceTree = "<group>"; };
 		1755E3912B277F4B00BE7E7B /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		1755E3932B2798F100BE7E7B /* PlaceHolderTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceHolderTextField.swift; sourceTree = "<group>"; };
+		17C07FB22B28B1E9008F55A9 /* CameraComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraComponent.swift; sourceTree = "<group>"; };
+		17C07FB52B28CC67008F55A9 /* sf-ui-display-ultralight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sf-ui-display-ultralight.otf"; sourceTree = "<group>"; };
+		17C07FB62B28CC67008F55A9 /* sf-ui-display-bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sf-ui-display-bold.otf"; sourceTree = "<group>"; };
+		17C07FB72B28CC67008F55A9 /* sf-ui-display-heavy.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sf-ui-display-heavy.otf"; sourceTree = "<group>"; };
+		17C07FB82B28CC67008F55A9 /* sf-ui-display-medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sf-ui-display-medium.otf"; sourceTree = "<group>"; };
+		17C07FB92B28CC67008F55A9 /* sf-ui-display-black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sf-ui-display-black.otf"; sourceTree = "<group>"; };
+		17C07FBA2B28CC67008F55A9 /* sf-ui-display-light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sf-ui-display-light.otf"; sourceTree = "<group>"; };
+		17C07FBB2B28CC67008F55A9 /* sf-ui-display-semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sf-ui-display-semibold.otf"; sourceTree = "<group>"; };
+		17C07FBC2B28CC67008F55A9 /* sf-ui-display-thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sf-ui-display-thin.otf"; sourceTree = "<group>"; };
+		17C07FBF2B28CC9F008F55A9 /* Lato-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-LightItalic.ttf"; sourceTree = "<group>"; };
+		17C07FC02B28CC9F008F55A9 /* Lato-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Regular.ttf"; sourceTree = "<group>"; };
+		17C07FC12B28CC9F008F55A9 /* Lato-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Thin.ttf"; sourceTree = "<group>"; };
+		17C07FC22B28CC9F008F55A9 /* Lato-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Bold.ttf"; sourceTree = "<group>"; };
+		17C07FC32B28CC9F008F55A9 /* Lato-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-ThinItalic.ttf"; sourceTree = "<group>"; };
+		17C07FC42B28CC9F008F55A9 /* Lato-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Black.ttf"; sourceTree = "<group>"; };
+		17C07FC52B28CC9F008F55A9 /* Lato-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-BlackItalic.ttf"; sourceTree = "<group>"; };
+		17C07FC62B28CCA0008F55A9 /* Lato-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Italic.ttf"; sourceTree = "<group>"; };
+		17C07FC72B28CCA0008F55A9 /* Lato-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-BoldItalic.ttf"; sourceTree = "<group>"; };
+		17C07FC82B28CCA0008F55A9 /* Lato-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Light.ttf"; sourceTree = "<group>"; };
+		17C07FDB2B28CD37008F55A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +145,9 @@
 		1755E35C2B275D7100BE7E7B /* GameSteamSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				17C07FDB2B28CD37008F55A9 /* Info.plist */,
+				17C07FB42B28CC2D008F55A9 /* Fonts */,
+				17C07FB12B28B1D3008F55A9 /* Communts */,
 				1755E38E2B277EEB00BE7E7B /* LoginRegister */,
 				1755E35D2B275D7100BE7E7B /* GameSteamSwiftUIApp.swift */,
 				1755E35F2B275D7100BE7E7B /* ContentView.swift */,
@@ -159,6 +201,55 @@
 				1755E3912B277F4B00BE7E7B /* LoginView.swift */,
 			);
 			path = LoginRegister;
+			sourceTree = "<group>";
+		};
+		17C07FB12B28B1D3008F55A9 /* Communts */ = {
+			isa = PBXGroup;
+			children = (
+				17C07FB22B28B1E9008F55A9 /* CameraComponent.swift */,
+			);
+			path = Communts;
+			sourceTree = "<group>";
+		};
+		17C07FB42B28CC2D008F55A9 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				17C07FBE2B28CC91008F55A9 /* Lato */,
+				17C07FBD2B28CC6F008F55A9 /* SFUIDisplay */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		17C07FBD2B28CC6F008F55A9 /* SFUIDisplay */ = {
+			isa = PBXGroup;
+			children = (
+				17C07FB92B28CC67008F55A9 /* sf-ui-display-black.otf */,
+				17C07FB62B28CC67008F55A9 /* sf-ui-display-bold.otf */,
+				17C07FB72B28CC67008F55A9 /* sf-ui-display-heavy.otf */,
+				17C07FBA2B28CC67008F55A9 /* sf-ui-display-light.otf */,
+				17C07FB82B28CC67008F55A9 /* sf-ui-display-medium.otf */,
+				17C07FBB2B28CC67008F55A9 /* sf-ui-display-semibold.otf */,
+				17C07FBC2B28CC67008F55A9 /* sf-ui-display-thin.otf */,
+				17C07FB52B28CC67008F55A9 /* sf-ui-display-ultralight.otf */,
+			);
+			path = SFUIDisplay;
+			sourceTree = "<group>";
+		};
+		17C07FBE2B28CC91008F55A9 /* Lato */ = {
+			isa = PBXGroup;
+			children = (
+				17C07FC42B28CC9F008F55A9 /* Lato-Black.ttf */,
+				17C07FC52B28CC9F008F55A9 /* Lato-BlackItalic.ttf */,
+				17C07FC22B28CC9F008F55A9 /* Lato-Bold.ttf */,
+				17C07FC72B28CCA0008F55A9 /* Lato-BoldItalic.ttf */,
+				17C07FC62B28CCA0008F55A9 /* Lato-Italic.ttf */,
+				17C07FC82B28CCA0008F55A9 /* Lato-Light.ttf */,
+				17C07FBF2B28CC9F008F55A9 /* Lato-LightItalic.ttf */,
+				17C07FC02B28CC9F008F55A9 /* Lato-Regular.ttf */,
+				17C07FC12B28CC9F008F55A9 /* Lato-Thin.ttf */,
+				17C07FC32B28CC9F008F55A9 /* Lato-ThinItalic.ttf */,
+			);
+			path = Lato;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -265,9 +356,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17C07FC92B28CCAA008F55A9 /* Lato-Black.ttf in Resources */,
+				17C07FD62B28CCB8008F55A9 /* sf-ui-display-thin.otf in Resources */,
+				17C07FCE2B28CCB0008F55A9 /* Lato-Thin.ttf in Resources */,
+				17C07FD42B28CCB8008F55A9 /* sf-ui-display-heavy.otf in Resources */,
+				17C07FD32B28CCB8008F55A9 /* sf-ui-display-light.otf in Resources */,
+				17C07FD72B28CCB8008F55A9 /* sf-ui-display-bold.otf in Resources */,
+				17C07FD92B28CCB8008F55A9 /* sf-ui-display-black.otf in Resources */,
+				17C07FDA2B28CCB8008F55A9 /* sf-ui-display-medium.otf in Resources */,
 				1755E3652B275D7400BE7E7B /* Preview Assets.xcassets in Resources */,
+				17C07FCA2B28CCB0008F55A9 /* Lato-BlackItalic.ttf in Resources */,
+				17C07FCB2B28CCB0008F55A9 /* Lato-BoldItalic.ttf in Resources */,
 				1755E3622B275D7400BE7E7B /* Assets.xcassets in Resources */,
 				1755E38A2B2761DF00BE7E7B /* Colors.xcassets in Resources */,
+				17C07FD12B28CCB0008F55A9 /* Lato-Bold.ttf in Resources */,
+				17C07FD02B28CCB0008F55A9 /* Lato-ThinItalic.ttf in Resources */,
+				17C07FCF2B28CCB0008F55A9 /* Lato-Regular.ttf in Resources */,
+				17C07FD82B28CCB8008F55A9 /* sf-ui-display-ultralight.otf in Resources */,
+				17C07FCD2B28CCB0008F55A9 /* Lato-Italic.ttf in Resources */,
+				17C07FD52B28CCB8008F55A9 /* sf-ui-display-semibold.otf in Resources */,
+				17C07FCC2B28CCB0008F55A9 /* Lato-Light.ttf in Resources */,
+				17C07FD22B28CCB0008F55A9 /* Lato-LightItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,6 +406,7 @@
 				1755E3602B275D7100BE7E7B /* ContentView.swift in Sources */,
 				1755E3942B2798F100BE7E7B /* PlaceHolderTextField.swift in Sources */,
 				1755E35E2B275D7100BE7E7B /* GameSteamSwiftUIApp.swift in Sources */,
+				17C07FB32B28B1E9008F55A9 /* CameraComponent.swift in Sources */,
 				1755E3882B275DCF00BE7E7B /* LoginScreen.swift in Sources */,
 				1755E38D2B27637600BE7E7B /* TwoOptionsButtons.swift in Sources */,
 			);
@@ -465,6 +575,8 @@
 				DEVELOPMENT_TEAM = UZN5F69KQN;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = GameSteamSwiftUI/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to the camera to take photos.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -494,6 +606,8 @@
 				DEVELOPMENT_TEAM = UZN5F69KQN;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = GameSteamSwiftUI/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to the camera to take photos.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

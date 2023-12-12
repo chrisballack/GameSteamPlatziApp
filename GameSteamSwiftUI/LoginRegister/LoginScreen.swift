@@ -9,7 +9,7 @@ import SwiftUI
 
 struct LoginScreen: View {
     
-    @State var isLogin: Bool = true
+    @State var isLogin: Bool = false
     @State private var isKeyboardVisible: Bool = false
     
     var body: some View {

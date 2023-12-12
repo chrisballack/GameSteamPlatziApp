@@ -15,6 +15,7 @@ struct PlaceholderTextField: UIViewRepresentable {
     var font: UIFont
     var isSecureEntry: Bool
     var onFocusChange: (Bool) -> Void
+    var keyboardType: UIKeyboardType = .default // Add keyboard type property
 
     class Coordinator: NSObject, UITextFieldDelegate {
         @Binding var text: String
@@ -49,6 +50,7 @@ struct PlaceholderTextField: UIViewRepresentable {
             string: placeholder,
             attributes: [NSAttributedString.Key.foregroundColor: placeholderColor, NSAttributedString.Key.font: font]
         )
+        textField.keyboardType = keyboardType // Set keyboard type
         return textField
     }
 

@@ -32,8 +32,10 @@ struct LoginView: View {
                             
                             onFocusLine1 = onFocus
                             
-                        }
+                        },
+                        keyboardType: .emailAddress
                     ).frame(height: 16)
+                        
                     Divider().background(onFocusLine1 == true ? Color("SecundaryColor"):Color("White"))
                     
                     Text("Contraseña").padding(.top,36).foregroundColor(Color("White")).font(
@@ -64,7 +66,13 @@ struct LoginView: View {
                     Button {
                         print("INICIAR SESIÓN")
                     } label: {
-                        Text("INICIAR SESIÓN").frame(maxWidth: .infinity,alignment: .center).foregroundColor(Color("SecundaryColor")).font(Font.custom("SF UI Display", size: 12))
+                        Text("INICIAR SESIÓN").frame(maxWidth: .infinity,alignment: .center).font(
+                            Font.custom("SF UI Display", size: 18)
+                            .weight(.bold)
+                            )
+                            .kerning(0.72)
+                            .multilineTextAlignment(.center)
+                            .foregroundColor(.white)
                             .padding(.vertical,12)
                             .overlay(RoundedRectangle(cornerRadius:6.0).stroke(Color("SecundaryColor"), lineWidth: 1.0).shadow(color: Color("SecundaryColor"), radius: 6) )
                     }.frame(alignment: .center).padding(.top, 53)
